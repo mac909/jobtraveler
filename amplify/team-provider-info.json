@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-jobtraveler-dev-212158-authRole",
+      "UnauthRoleArn": "arn:aws:iam::128308028225:role/amplify-jobtraveler-dev-212158-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::128308028225:role/amplify-jobtraveler-dev-212158-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-jobtraveler-dev-212158-deployment",
+      "UnauthRoleName": "amplify-jobtraveler-dev-212158-unauthRole",
+      "StackName": "amplify-jobtraveler-dev-212158",
+      "StackId": "arn:aws:cloudformation:us-east-1:128308028225:stack/amplify-jobtraveler-dev-212158/6e2142e0-58e6-11ee-9954-0ea475d68c23",
+      "AmplifyAppId": "d1x88vyt8nxih0"
+    },
+    "categories": {
+      "auth": {
+        "jobtravelerec472511": {}
+      }
+    }
+  }
+}
